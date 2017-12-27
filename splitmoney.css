@@ -1,0 +1,54 @@
+
+.login_pos{
+	margin-top: 10px;
+	margin-left:1100px;
+}
+
+.login{
+	background-color: white;
+	border-color: #6298ef;
+	border-style: 1px solid;
+	color:#6298ef;
+}
+.signup_pos{
+	margin-top: 10px;
+}
+.btn_size{
+	width:100px;
+	height: 40px;
+}
+.signup{
+	background-color:#6298ef;
+	border-style:1px solid;
+	border-color: #6298ef; 
+	color:white;
+}
+.login:hover{
+	background-color:#6298ef;
+	color:white;
+}
+.signup:hover{
+	background-color: #185bc9;
+	color: white;
+}
+}
+div.fgh{
+	width:100%;
+	height:480px;
+	background:url(dollar.jpg) no-repeat !important;
+	background:blur;
+	background-size: cover;
+}
+.mod_btn{
+	background-color: transparent;
+	border-width: 0px;
+	color: white;
+	opacity: 1;
+}
+.modal{
+	position: absolute;
+	top: 100px;
+}
+.modal-body{
+	padding-top: 20px;
+}
